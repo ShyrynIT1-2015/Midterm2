@@ -1,0 +1,168 @@
+body{
+	font-family: Montserrat;
+}
+
+.sale_text-center{
+	text-align: center;
+	background-color:#ffcad4;	
+	text-decoration: none;
+}
+.sale{
+	background-color: #ffcad4;
+	height: 65px;
+	display: left;
+}
+.for_flex{
+	display: inline-block;
+	float: left;
+}
+
+.saleimg{
+	margin-left: -50px;
+}
+
+.sale a{
+	color: black;
+}
+
+.sale a:hover{
+    text-decoration: none;
+}
+
+.header-s{
+	padding-top:10px;
+	list-style: none outside none; 
+	margin:0; 
+	padding: 0; 
+	text-align: center;
+	background-color: #ffffff;
+}
+.header-s li{
+	margin-right: 20px;
+	padding-top:10px;
+	display: inline-block; 
+}
+
+.phone a{
+	color:#ffcad4;
+	font-size:20px;
+	font-weight: bold;
+}
+
+.phone a:hover{
+    text-decoration: none;
+}
+
+.header-s .about-site p{
+	color: #c6c7c7;
+    transform: scale(0.7);
+}
+
+.personal a{
+    color: black;
+}
+
+.personal a:hover{
+    color: #ffcad4;
+	text-decoration: none;
+}
+
+.buttonI{
+	border: 1px solid #ffcad4;
+	background-color: white;
+	height: 50px;
+	width: 300px	
+}
+
+.buttonI:hover{
+	border-style: double;
+	color: #ffcad4;
+}
+
+.str{
+	color:#ffcad4;
+	margin-bottom: 100px;
+}
+
+.shape{
+	background-color:#ffcad4;	
+	width:100px;
+	height:1px;
+	margin-bottom:10px;
+	margin-left: 25px
+}
+
+.roi{
+	color:black;
+}
+
+.roi:hover{
+	color:#ffcad4;
+	text-decoration: none;
+}
+
+.shape2{
+	background-color:#ffcad4;	
+	width: 145px;
+	height: 1px;
+	margin-bottom:10px;
+	margin-left: 32px
+}
+
+.xdxd{
+	color:black;
+	font-weight
+}
+
+.xdxd:hover{
+	color:#ffcad4;
+	text-decoration: none;
+}
+
+.top-price{
+	font-size:12px;
+}
+
+.features{
+	background-color:#fff4f6;
+}
+
+.shape4{
+	background-color:#ffcad4;	
+	width: 145px;
+	height: 1px;
+	margin-left:65px;
+	margin-bottom:10px;
+}
+
+.hro{
+	color:black;
+}
+
+.hro:hover{
+	color:#ffcad4;
+	text-decoration: none;	
+}
+
+.shape7{
+	color: gray;
+	width: 145px;
+	height: 2px;
+}
+
+.ph{
+	width: 5000px;
+	height: 400px;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+}
+
+footer{
+	color: #878686;
+	background-color:#27251f;
+
+}
+
+
+svg {
+  width: 400px;
+}
